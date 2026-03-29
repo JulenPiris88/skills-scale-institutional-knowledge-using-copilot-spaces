@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+Note: We maintain an expanded personas list with cross-functional roles and interaction guidance in docs/octoacme-roles-and-personas.md — please consult that doc for role-level checklists and templates.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
